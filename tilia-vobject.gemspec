@@ -12,6 +12,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'tilia-xml', '~> 1.3'
   s.add_runtime_dependency 'activesupport', '>= 4.0'
   s.add_runtime_dependency 'mail', '~> 2.6'
-  s.add_runtime_dependency 'tzinfo', '~> 1.2'
+  s.add_runtime_dependency 'tzinfo', '~> 2.0'
   s.add_runtime_dependency 'rchardet', '~>1.6'
 end
